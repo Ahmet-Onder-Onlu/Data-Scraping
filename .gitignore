@@ -1,0 +1,4 @@
+datavenv/
+*.png, jpeg, jpg
+*.ipynb_checkpoints/
+*.pyc
